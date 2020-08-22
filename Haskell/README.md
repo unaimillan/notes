@@ -8,3 +8,6 @@ by A. Granin
 
 https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1
 
+## Mini Patterns by Kowainik
+
+https://kowainik.github.io/posts/haskell-mini-patterns
